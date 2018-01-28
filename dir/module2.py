@@ -1,0 +1,2 @@
+def laaa():
+    print("lasss")
